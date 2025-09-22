@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <div className ="w-full flex justify-between h-15 items-center bg-gray-200 shadow px-5">
         <div className = "w-[10%] h-full flex items-center">
-            <h1 className ="font-bold text-zinc-800">Logo</h1>
+            <h1 className ="font-bold text-zinc-800">Rak Kenangan</h1>
 
         </div>
         <div className = "w-[50%] h-full">
